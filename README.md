@@ -7,4 +7,5 @@ Radionica se održava u Septembru na Univerzitetu u Banjaluci. Tačno vrijeme, l
 ## Predavači
 
 Dr. Ing. Milica Grahovac
+
 Prof. Dr. Dino Kosić
