@@ -10,7 +10,7 @@ Materijal radionice će biti svima dostupan na ovom repozitoriju.
 
 Dr. Ing. Milica Grahovac
 
-Prof. Dr. Dino Kosić
+Doc. Dr. Dino Kosić
 
 ## Organizacija
 
