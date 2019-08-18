@@ -1,0 +1,3 @@
+Podaci u zipovanom fajlu (BIH_SR_Banja.Luka.145420_TMYx.2003-2017.zip) su sa: http://climate.onebuilding.org/WMO_Region_6_Europe/BIH_Bosnia_and_Herzegovina/index.html
+BIH_SR_Banja.Luka.145420_TMYx.2003-2017EPW.csv je csv verzija istih podataka, konvertovana iz EnergyPlus formata u csv uz pomoc EnergyPlus Weather Utility
+145420TY.csv je verzija istih podataka, formatirana za koristenje u MSWH softveru (https://github.com/LBNL-ETA/MSWH/tree/master/mswh)
