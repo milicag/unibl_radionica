@@ -14,7 +14,7 @@ Doc. Dr. Dino Kosić
 
 ## Organizacija
 
-Univerzitet u Banjaluci, Mašinski Fakultet, na inicijativu predavača.
+Univerzitet u Banjaluci, Mašinski Fakultet, na inicijativu predavača volontera.
 
 ## Kontakt
 
