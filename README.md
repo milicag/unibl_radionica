@@ -10,6 +10,8 @@ Dodatne informacije su dostupne na [wiki stranicama ovog repozitorija](https://g
 
 ## Predavači
 
+Volontiraju:
+
 Dr. Ing. Milica Grahovac
 
 Doc. Dr. Dino Kosić
