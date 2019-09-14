@@ -20,6 +20,24 @@ Doc. Dr. Dino Kosić
 
 Univerzitet u Banjaluci, Mašinski Fakultet, na inicijativu predavača volontera.
 
+## Webinar
+
+Milica Grahovac is inviting you to a scheduled Zoom meeting.
+
+Tema: Uni BL Radionica
+Vrijeme: Sep 18, 2019 08:00 AM Banja Luka
+        Every day, 3 occurrence(s)
+        Sep 18, 2019 08:00 AM
+        Sep 19, 2019 08:00 AM
+        Sep 20, 2019 08:00 AM
+
+Da pristupite webinar-u:
+https://zoom.us/j/115680729
+
+Meeting ID: 115 680 729
+Find your local number (nema BiH, molimo da koristite internet): https://zoom.us/u/ak6QPBFqU
+
+
 ## Kontakt
 
 Prof. Dr. Petar Gvero, Mašinski Fakultet.
