@@ -1,4 +1,4 @@
-Podaci snimljani sa PurpleAir senzorom su dostupni na:
+Podaci snimljeni sa PurpleAir senzorom su dostupni na:
 
 https://www.purpleair.com/sensorlist
 
