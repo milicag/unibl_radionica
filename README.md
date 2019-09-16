@@ -1,6 +1,6 @@
 # Radionica
 
-Na Univerzitetu u Banjaluci ćemo održati besplatnu radionicu o korištenju otvorenog koda u analizi podataka (data science), modelovanju, simulaciji i machine learning-u.
+Na Univerzitetu u Banjaluci ćemo održati besplatnu radionicu o korištenju otvorenog koda u analizi podataka (data science), modelovanju, simulaciji i machine learning-u. Pocetnici su takodje dobrodosli, pogotovo na drugi dan, 19 septembar.
 
 Radionica se održava u drugoj polovini Septembra. Tačno vrijeme, lokacija i program će biti objavljeni [ovdje](https://github.com/milicag/unibl_radionica/wiki/Program-radionice).
 
