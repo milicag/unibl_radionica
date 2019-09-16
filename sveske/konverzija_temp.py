@@ -1,4 +1,4 @@
-class konverzija:
+class Konverzija:
     def __init__(self):
         pass
     
